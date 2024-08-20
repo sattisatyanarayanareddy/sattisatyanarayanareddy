@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satya Narayana Reddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40gavizoid16%2Fthings-to-do-after-a-coding-bootcamp-9523cd61be91&psig=AOvVaw3sV3n47mh--Px_C1wxcNzE&ust=1724245489227000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjXrJTRg4gDFQAAAAAdAAAAABAJ" align ="right" width="400" alt="Coding" />
+<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" align ="right" width="400" alt="Coding" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
